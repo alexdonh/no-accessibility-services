@@ -1,8 +1,8 @@
-[![](https://img.shields.io/github/v/release/alexdonh/noaccessibilityservices?style=flat-square)](https://github.com/alexdonh/noaccessibilityservices/releases/latest)
-![](https://img.shields.io/github/repo-size/alexdonh/noaccessibilityservices?style=flat-square)
-[![](https://img.shields.io/github/downloads/alexdonh/noaccessibilityservices/total?style=flat-square")](https://tooomm.github.io/github-release-stats/?username=BlackMesa123&repository=KnoxPatch)
-[![](https://img.shields.io/github/last-commit/alexdonh/noaccessibilityservices/main?style=flat-square")](https://github.com/alexdonh/noaccessibilityservices/commits/main)
-[![](https://img.shields.io/github/actions/workflow/status/alexdonh/noaccessibilityservices/android.yml?style=flat-square")](https://github.com/alexdonh/noaccessibilityservices/actions)
+[![](https://img.shields.io/github/v/release/alexdonh/no-accessibility-services?style=flat-square)](https://github.com/alexdonh/no-accessibility-services/releases/latest)
+![](https://img.shields.io/github/repo-size/alexdonh/no-accessibility-services?style=flat-square)
+[![](https://img.shields.io/github/downloads/alexdonh/no-accessibility-services/total?style=flat-square")](https://tooomm.github.io/github-release-stats/?username=alexdonh&repository=no-accessibility-services)
+[![](https://img.shields.io/github/last-commit/alexdonh/no-accessibility-services/main?style=flat-square")](https://github.com/alexdonh/no-accessibility-services/commits/main)
+[![](https://img.shields.io/github/actions/workflow/status/alexdonh/no-accessibility-services/android.yml?style=flat-square")](https://github.com/alexdonh/no-accessibility-services/actions)
 
 
 # no-accessibility-services
