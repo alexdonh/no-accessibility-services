@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No Accessibility Services</string>
+    <string name="xposed_desc">An Xposed module that disables apps from getting installed and enabled accessibility services.</string>
+    <string name="about_module">This module is made by YukiHookAPI. \nLearn more https://github.com/fankes/YukiHookAPI</string>
+</resources>
